@@ -1,22 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sujon Ali</h1>
-<h3 align="center">A passionate Software Developer, ML & AI Enthusiast from Bangladesh</h3>
+<h1 align="center">👋 Hey there! I'm Sujon Ali</h1>
+<h3 align="center">A passionate Software Developer, ML & AI Enthusiast from Bangladesh, and a recent graduate in Computer Science and Engineering from Rajshahi University of Engineering and Technology</h3>
 
+<p align="center">I am writing to express my interest in the mentioned position within your esteemed organization. As a diligent final semester student pursuing a degree in Computer Science and Engineering at Rajshahi University of Engineering & Technology, Bangladesh, I am on track to graduate in February 2024 with a strong emphasis on the MERN (MongoDB, Express.js, React.js, Node.js) stack.</p>
+
+<p align="center"> My academic journey has equipped me with a solid foundation in full-stack development, and I am particularly proficient in leveraging Redux.js for intricate state management. Through hands-on experiences, I have honed my skills in MongoDB, Express.js, React.js, and Node.js, ensuring a comprehensive understanding of the MERN stack and its application in real-world scenarios. </p>
+
+<p align="center">I have contributed to successful projects, showcasing my ability to create robust and user-friendly interfaces while prioritizing optimal performance. My expertise in Redux.js adds an extra layer of sophistication to my skill set, allowing me to tackle complex challenges in state management with finesse.</p>
+
+<p align="center">Additionally, I have a keen interest and solid skills in Machine Learning and Deep Learning. Leveraging algorithms and data, I enjoy exploring these technologies' endless possibilities, from predictive modeling to natural language processing.</p>
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujoncse1803100&label=Profile%20views&color=0e75b6&style=flat" alt="sujoncse1803100" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujoncse1803100" alt="sujoncse1803100" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://main--sujonali-portfolio-100.netlify.app/](https://main--sujonali-portfolio-100.netlify.app/)
-
-- 📫 How to reach me **sujonali8276@gmail.com**
+All of my projects are available at [https://main--sujonali-portfolio-100.netlify.app/](https://main--sujonali-portfolio-100.netlify.app/)
+How to reach me **sujonali8276@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sujonali386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujonali386" height="30" width="40" /></a>
+
 <a href="https://kaggle.com/sujonali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sujonali" height="30" width="40" /></a>
+
 <a href="https://fb.com/sujonali386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujonali386" height="30" width="40" /></a>
+<!--
 <a href="https://www.codechef.com/users/querist100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="querist100" height="30" width="40" /></a>
+-->
+
 <a href="https://codeforces.com/profile/querist100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="querist100" height="30" width="40" /></a>
+<!--
 <a href="https://www.hackerearth.com/sujon.cse100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sujon.cse100" height="30" width="40" /></a>
+-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
