@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hey there! I'm Sujon Ali</h1>
 <h3 align="center">A passionate Software Developer, ML & AI Enthusiast from Bangladesh, and a recent graduate in Computer Science and Engineering from Rajshahi University of Engineering and Technology</h3>
 
-<p align="start">I am writing to express my interest in the mentioned position within your esteemed organization. As a diligent final semester student pursuing a degree in Computer Science and Engineering at Rajshahi University of Engineering & Technology, Bangladesh, I am on track to graduate in February 2024 with a strong emphasis on the MERN (MongoDB, Express.js, React.js, Node.js) stack.</p>
+<p>I am writing to express my interest in the mentioned position within your esteemed organization. As a diligent final semester student pursuing a degree in Computer Science and Engineering at Rajshahi University of Engineering & Technology, Bangladesh, I am on track to graduate in February 2024 with a strong emphasis on the MERN (MongoDB, Express.js, React.js, Node.js) stack.</p>
 
-<p align="start"> My academic journey has equipped me with a solid foundation in full-stack development, and I am particularly proficient in leveraging Redux.js for intricate state management. Through hands-on experiences, I have honed my skills in MongoDB, Express.js, React.js, and Node.js, ensuring a comprehensive understanding of the MERN stack and its application in real-world scenarios. </p>
+<p> My academic journey has equipped me with a solid foundation in full-stack development, and I am particularly proficient in leveraging Redux.js for intricate state management. Through hands-on experiences, I have honed my skills in MongoDB, Express.js, React.js, and Node.js, ensuring a comprehensive understanding of the MERN stack and its application in real-world scenarios. </p>
 
-<p align="start">I have contributed to successful projects, showcasing my ability to create robust and user-friendly interfaces while prioritizing optimal performance. My expertise in Redux.js adds an extra layer of sophistication to my skill set, allowing me to tackle complex challenges in state management with finesse.</p>
+<p>I have contributed to successful projects, showcasing my ability to create robust and user-friendly interfaces while prioritizing optimal performance. My expertise in Redux.js adds an extra layer of sophistication to my skill set, allowing me to tackle complex challenges in state management with finesse.</p>
 
-<p align="start">Additionally, I have a keen interest and solid skills in Machine Learning and Deep Learning. Leveraging algorithms and data, I enjoy exploring these technologies' endless possibilities, from predictive modeling to natural language processing.</p>
+<p>Additionally, I have a keen interest and solid skills in Machine Learning and Deep Learning. Leveraging algorithms and data, I enjoy exploring these technologies' endless possibilities, from predictive modeling to natural language processing.</p>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujoncse1803100&label=Profile%20views&color=0e75b6&style=flat" alt="sujoncse1803100" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujoncse1803100" alt="sujoncse1803100" /></a> </p>
