@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hey there! I'm Sujon Ali</h1>.
-
 <h3 align="center">A passionate Software Developer, ML & AI Enthusiast from Bangladeshy</h3>
 
 <p>I am writing to express my interest in the mentioned position within your esteemed organization. As a diligent final semester student pursuing a degree in Computer Science and Engineering at Rajshahi University of Engineering & Technology, Bangladesh, I am on track to graduate in February 2024 with a strong emphasis on the MERN (MongoDB, Express.js, React.js, Node.js) stack.</p>
