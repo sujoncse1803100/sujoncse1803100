@@ -1,8 +1,8 @@
+<h1 align="center">👋 Hey there! I'm Sujon Ali </br>A passionate Software Developer, ML & AI Enthusiast </h1>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujoncse1803100&show_icons=true&locale=en&layout=compact" alt="sujoncse1803100" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujoncse1803100&show_icons=true&locale=en" alt="sujoncse1803100" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujoncse1803100&" alt="sujoncse1803100" /></p>
-
-<h1 align="center">👋 Hey there! I'm Sujon Ali </br>A passionate Software Developer, ML & AI Enthusiast </h1>
 
 ### About Me
 Fresh graduate in Computer Science and Engineering from Rajshahi University of Engineering & Technology, expecting to graduate in February 2024. Currently working as a software engineer, specializing in full-stack web development with React.js, Redux.js, Node.js, and MongoDB, alongside proficiency in Laravel. Actively involved in Python-based machine learning, deep learning, and natural language processing projects. Passionate about data science, I'm eager to contribute my skills in a dynamic professional environment and take on new challenges.
