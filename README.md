@@ -1,3 +1,77 @@
+
+<span align="center"><h1> 👋 Hey there! I'm Sujon Ali </h1> </br> <h3>A passionate Software Developer, ML & AI Enthusiast</h3>  </span>.
+
+### contact
+- Email: sujonalali8276@gmail.com
+- Phone: +8801782562576
+- Location: Rajshahi, Bangladesh
+- Portfolio: [https://main--sujonali-portfolio-100.netlify.app](https://main--sujonali-portfolio-100.netlify.app/)
+
+<p align="left">
+<a href="https://linkedin.com/in/sujonali386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujonali386" height="30" width="40" /></a> </br>
+
+<a href="https://kaggle.com/sujonali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sujonali" height="30" width="40" /></a>
+
+<a href="https://fb.com/sujonali386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujonali386" height="30" width="40" /></a>
+<!--
+<a href="https://www.codechef.com/users/querist100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="querist100" height="30" width="40" /></a>
+-->
+
+
+<a href="https://codeforces.com/profile/querist100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="querist100" height="30" width="40" /></a>
+<!--
+<a href="https://www.hackerearth.com/sujon.cse100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sujon.cse100" height="30" width="40" /></a>
+-->
+</p>
+
+
+### About Me
+Fresh graduate in Computer Science and Engineering from Rajshahi University of Engineering & Technology, expecting to graduate in February 2024. Currently working as a software engineer, specializing in full-stack web development with React.js, Redux.js, Node.js, and MongoDB, alongside proficiency in Laravel. Actively involved in Python-based machine learning, deep learning, and natural language processing projects. Passionate about data science, I'm eager to contribute my skills in a dynamic professional environment and take on new challenges.
+
+### Education
+- BSc in Computer Science and Engineering
+  - Rajshahi University of Engineering & Technology
+  - Feb 2019 - Feb 2024
+  - CGPA: 3.02 out of 4.00
+
+### Skills
+- React, Next, Redux
+- Node, Express
+- MySQL, MongoDB
+- Tailwind, Bootstrap
+- Git/Github
+- Problem-Solving, Data Structures, Algorithms
+- JavaScript, C++, Python, C, Java
+
+### Others
+- Codeforces Profile: <a href="https://codeforces.com/profile/querist100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="querist100" height="30" width="40" /></a>
+- Linkedin Profile: <a href="https://linkedin.com/in/sujonali386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujonali386" height="30" width="40" /></a>
+- Kaggle Profile: <a href="https://kaggle.com/sujonali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sujonali" height="30" width="40" /></a>
+
+- Facebook Profile: <a href="https://fb.com/sujonali386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujonali386" height="30" width="40" /></a>
+-CodeChef Profile : <a href="https://www.codechef.com/users/querist100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="querist100" height="30" width="40" /></a>
+- CodeChef Profile: [sujoncse1803100](https://www.codechef.com/users/sujoncse1803100)
+
+### Languages
+- Native: Bengali
+- Professional: English
+- Others: Hindi/Urdu (Speaking & Listening)
+
+
+### Experience
+- **Web Developer Intern | Qubitech Solutions**
+  - May 2022 – November 2022
+  - Rajshahi, Bangladesh
+  - Collaborated with my team to develop a web application.
+
+### Achievements
+1. 2023 ICPC Asia Dhaka Regional Site Online Preliminary Contest
+   - [Profile](link_to_your_profile)
+   - [Certifications](link_to_certifications)
+2. Successfully Completed a Redux Course
+   - [Certificate and Job Recommendation Letter](link_to_certificate)
+
+
 <!--
 <h1 align="center">👋 Hey there! I'm Sujon Ali</h1>.
 <h3 align="center">A passionate Software Developer, ML & AI Enthusiast from Bangladeshy</h3>
@@ -46,69 +120,6 @@ How to reach me **sujonali8276@gmail.com**
 
 
 -->
-
-<h1 align="center">👋 Hey there! I'm Sujon Ali </br> A passionate Software Developer, ML & AI Enthusiast  </h1>.
-<h3 align="center">A passionate Software Developer, ML & AI Enthusiast from Bangladeshy</h3>
-
-## Software Developer | ML & AI Enthusiast
-- Email: sujonalali8276@gmail.com
-- Phone: +8801782562576
-- Location: Rajshahi, Bangladesh
-- Portfolio: [sujonali-portfolio-100.netlify.app](https://sujoncse1803100.netlify.app)
-
-### Education
-- BSc in Computer Science and Engineering
-  - Rajshahi University of Engineering & Technology
-  - Feb 2019 - Feb 2024
-  - CGPA: 3.02 out of 4.00
-
-### Skills
-- React, Next, Redux
-- Node, Express
-- MySQL, MongoDB
-- Tailwind, Bootstrap
-- Git/Github
-- Problem-Solving, Data Structures, Algorithms
-- JavaScript, C++, Python, C, Java
-
-### Others
-- Codeforces Profile: [sujonali386](https://codeforces.com/profile/sujonali386)
-- CodeChef Profile: [sujoncse1803100](https://www.codechef.com/users/sujoncse1803100)
-
-### Languages
-- Native: Bengali
-- Professional: English
-- Others: Hindi/Urdu (Speaking & Listening)
-
-### About Me
-Fresh graduate in Computer Science and Engineering from Rajshahi University of Engineering & Technology, expecting to graduate in February 2024. Currently working as a software engineer, specializing in full-stack web development with React.js, Redux.js, Node.js, and MongoDB, alongside proficiency in Laravel. Actively involved in Python-based machine learning, deep learning, and natural language processing projects. Passionate about data science, I'm eager to contribute my skills in a dynamic professional environment and take on new challenges.
-
-### Experience
-- **Web Developer Intern | Qubitech Solutions**
-  - May 2022 – November 2022
-  - Rajshahi, Bangladesh
-  - Collaborated with my team to develop a web application.
-
-### Achievements
-1. 2023 ICPC Asia Dhaka Regional Site Online Preliminary Contest
-   - [Profile](link_to_your_profile)
-   - [Certifications](link_to_certifications)
-2. Successfully Completed a Redux Course
-   - [Certificate and Job Recommendation Letter](link_to_certificate)
-
-### Projects
-1. **Creative Agency**
-   - Frontend | Backend | [Live Site](project1_live_site)
-   - Technology: React, Node, Express, MongoDB
-2. **GymMaster-Your Ultimate Fitness Destination**
-   - Repository | [Live Site](project2_live_site)
-   - Technology: React, Node, Express, MongoDB
-3. **Doctor Ease Appointments**
-   - Frontend | Backend | [Live Site](project3_live_site)
-   - Technology: React, Node, Express, MongoDB
-4. **Online Course Management**
-   - Repository
-   - Technology: React, Redux, JSON Web Server (Implementation of advanced redux and redux toolkit)
 
 
 
