@@ -64,6 +64,12 @@ Fresh graduate in Computer Science and Engineering from Rajshahi University of E
 - Professional: English
 - Others: Hindi/Urdu (Speaking & Listening)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujoncse1803100&show_icons=true&locale=en&layout=compact" alt="sujoncse1803100" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujoncse1803100&show_icons=true&locale=en" alt="sujoncse1803100" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujoncse1803100&" alt="sujoncse1803100" /></p>
+
 <!--
 <h1 align="center">👋 Hey there! I'm Sujon Ali</h1>.
 <h3 align="center">A passionate Software Developer, ML & AI Enthusiast from Bangladeshy</h3>
