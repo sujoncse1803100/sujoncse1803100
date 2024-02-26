@@ -1,5 +1,7 @@
+<h1 align="center">👋 Hey there! I'm Sujon Ali </br>A passionate Software Developer, ML & AI Enthusiast </h1>
 
-<h1 align="center">👋 Hey there! I'm Sujon Ali </br>A passionate Software Developer, ML & AI Enthusiast </h1>.
+### About Me
+Fresh graduate in Computer Science and Engineering from Rajshahi University of Engineering & Technology, expecting to graduate in February 2024. Currently working as a software engineer, specializing in full-stack web development with React.js, Redux.js, Node.js, and MongoDB, alongside proficiency in Laravel. Actively involved in Python-based machine learning, deep learning, and natural language processing projects. Passionate about data science, I'm eager to contribute my skills in a dynamic professional environment and take on new challenges.
 
 ### contact
 - Email: sujonalali8276@gmail.com
@@ -18,15 +20,24 @@
 -->
 </p>
 
-
-### About Me
-Fresh graduate in Computer Science and Engineering from Rajshahi University of Engineering & Technology, expecting to graduate in February 2024. Currently working as a software engineer, specializing in full-stack web development with React.js, Redux.js, Node.js, and MongoDB, alongside proficiency in Laravel. Actively involved in Python-based machine learning, deep learning, and natural language processing projects. Passionate about data science, I'm eager to contribute my skills in a dynamic professional environment and take on new challenges.
-
 ### Education
 - BSc in Computer Science and Engineering
   - Rajshahi University of Engineering & Technology
   - Feb 2019 - Feb 2024
-  - CGPA: 3.02 out of 4.00
+  - CGPA: 3.06 out of 4.00
+ 
+### Experience
+- **Web Developer Intern | Qubitech Solutions**
+  - May 2022 – November 2022
+  - Rajshahi, Bangladesh
+  - Collaborated with my team to develop a web application.
+
+### Achievements
+1. 2023 ICPC Asia Dhaka Regional Site Online Preliminary Contest
+   - [Profile](https://icpc.global/ICPCID/C5URH1KZ5BY3)
+   - [Certifications](https://drive.google.com/drive/folders/1OpHKzMBisvEEdTJJ3L_XKmVuHSfUVaDq?usp=drive_link)
+2. Successfully Completed a Redux Course
+   - [Certificate and Job Recommendation Letter](https://drive.google.com/drive/folders/1-QGZGt5diFHHiXRc1p8hUGNHEjrLIlp4)
 
 ### Skills
 - React, Next, Redux
@@ -52,21 +63,6 @@ Fresh graduate in Computer Science and Engineering from Rajshahi University of E
 - Native: Bengali
 - Professional: English
 - Others: Hindi/Urdu (Speaking & Listening)
-
-
-### Experience
-- **Web Developer Intern | Qubitech Solutions**
-  - May 2022 – November 2022
-  - Rajshahi, Bangladesh
-  - Collaborated with my team to develop a web application.
-
-### Achievements
-1. 2023 ICPC Asia Dhaka Regional Site Online Preliminary Contest
-   - [Profile](link_to_your_profile)
-   - [Certifications](link_to_certifications)
-2. Successfully Completed a Redux Course
-   - [Certificate and Job Recommendation Letter](link_to_certificate)
-
 
 <!--
 <h1 align="center">👋 Hey there! I'm Sujon Ali</h1>.
