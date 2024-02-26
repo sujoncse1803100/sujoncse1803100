@@ -47,7 +47,7 @@ How to reach me **sujonali8276@gmail.com**
 
 -->
 
-<h1 align="center">👋 Hey there! I'm Sujon Ali</h1>.
+<h1 align="center">👋 Hey there! I'm Sujon Ali </br> A passionate Software Developer, ML & AI Enthusiast  </h1>.
 <h3 align="center">A passionate Software Developer, ML & AI Enthusiast from Bangladeshy</h3>
 
 ## Software Developer | ML & AI Enthusiast
