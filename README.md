@@ -1,5 +1,5 @@
 
-<span align="center"><h1> 👋 Hey there! I'm Sujon Ali </h1> </br> <h3>A passionate Software Developer, ML & AI Enthusiast</h3>  </span>.
+<h1 align="center">👋 Hey there! I'm Sujon Ali </br>A passionate Software Developer, ML & AI Enthusiast </h1>.
 
 ### contact
 - Email: sujonalali8276@gmail.com
@@ -8,10 +8,8 @@
 - Portfolio: [https://main--sujonali-portfolio-100.netlify.app](https://main--sujonali-portfolio-100.netlify.app/)
 
 <p align="left">
-<a href="https://linkedin.com/in/sujonali386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujonali386" height="30" width="40" /></a> </br>
-
+<a href="https://linkedin.com/in/sujonali386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujonali386" height="30" width="40" /></a> 
 <a href="https://kaggle.com/sujonali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sujonali" height="30" width="40" /></a>
-
 <a href="https://fb.com/sujonali386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujonali386" height="30" width="40" /></a>
 <!--
 <a href="https://www.codechef.com/users/querist100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="querist100" height="30" width="40" /></a>
@@ -43,6 +41,7 @@ Fresh graduate in Computer Science and Engineering from Rajshahi University of E
 - Problem-Solving, Data Structures, Algorithms
 - JavaScript, C++, Python, C, Java
 
+<!--
 ### Others
 - Codeforces Profile: <a href="https://codeforces.com/profile/querist100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="querist100" height="30" width="40" /></a>
 - Linkedin Profile: <a href="https://linkedin.com/in/sujonali386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujonali386" height="30" width="40" /></a>
@@ -51,6 +50,7 @@ Fresh graduate in Computer Science and Engineering from Rajshahi University of E
 - Facebook Profile: <a href="https://fb.com/sujonali386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujonali386" height="30" width="40" /></a>
 -CodeChef Profile : <a href="https://www.codechef.com/users/querist100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="querist100" height="30" width="40" /></a>
 - CodeChef Profile: [sujoncse1803100](https://www.codechef.com/users/sujoncse1803100)
+-->
 
 ### Languages
 - Native: Bengali
